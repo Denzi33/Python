@@ -1,5 +1,6 @@
 # Micro_project_one
-## Just a little practice.
+
+## Just a little practice
 
 - 'main_one' - game random number;
 - 'main_one_auto' - game random number without action;

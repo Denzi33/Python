@@ -1,3 +1,3 @@
-# Python
-Experience with Python.
-Some projects in Python launguge.
+# Python 🐊
+
+Experience with Python
