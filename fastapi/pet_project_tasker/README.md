@@ -1,17 +1,15 @@
-# Pet project - "Tasker".
+# Pet project - "Tasker" 
 
-> [!TIP]
-## Stack:
-- `Deploy`: docker
-- `Database`: sqlite
-- `Local host`: uvicorn
-- `Patterns`: repository
-- `Web framework`: FastAPI
-- `Programming language`: Python >= 3.9
-- `Modules`: sqlalchemy, typing, pydantic
+> ### Stack 🛠
+- `Deploy`: docker 
+- `Database`: sqlite 
+- `Local host`: uvicorn 
+- `Patterns`: repository 
+- `Web framework`: FastAPI ✈
+- `Programming language`: Python >= 3.9 
+- `Modules`: sqlalchemy, typing, pydantic 
 
-> [!NOTE]
-## Files:
+> ### Files 📂
 - `.dockerignore`: using this file, you can set rules for excluding files from the build context, which means reducing 
 the time required to assemble the tar archive and send it to the server.
 - `.gitignore`: a file specifies intentionally untracked files that Git should ignore.
