@@ -35,7 +35,7 @@ assemble an image.
 
 > ### WARNINGS ⚠️
 
-- If your language version is less than 3.9, use `<type1> | <type2>` на `Union[<type1>, <type2>]`.
+- If your language version is less than 3.9, use `<type1> | <type2>` instead of `Union[<type1>, <type2>]`.
 
 > ### CREATE REPOSITORY ✏️
 
